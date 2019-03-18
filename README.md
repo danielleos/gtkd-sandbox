@@ -1,2 +1,2 @@
-# gtkd-sandbox
-Greenwich Taekwondo Website Theme Playground
+# Silverback Taekwondo Website
+A GitHub Pages project for Silverback TKD Club, London.
