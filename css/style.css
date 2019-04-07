@@ -2420,7 +2420,15 @@ iframe {
 }
 
 .view-top {
-	object-position: 0 0;
+	object-position: left top;
+}
+
+.view-bottom {
+	object-position: right bottom;
+}
+
+.modal {
+	z-index: 9999 !important;
 }
 
 /* ##################################### */
@@ -2513,10 +2521,6 @@ table, th, tr, td {
 	width: 100%;
 	object-fit: cover;
 	padding: 10px 0px;
-}
-
-.news-modal-content {
-	width: 50%;
 }
 
 /* ##################################### */
