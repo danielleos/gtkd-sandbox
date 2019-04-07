@@ -2438,6 +2438,10 @@ iframe {
 	text-align: justify;
 }
 
+.media-with-text h2 {
+	color: #ff6d6d;
+}
+
 /* The Modal (background) */
 .modal {
 	display: none; /* Hidden by default */
@@ -2456,6 +2460,38 @@ iframe {
 	background-color: #fefefe;
 	margin: 15% auto;
 	padding: 20px;
+}
+
+.news-modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+	width: 50%;
+	-webkit-border-radius: 0.25rem !important;
+    -moz-border-radius: 0.25rem !important;
+    border-radius: 0.25rem !important; 
+}
+
+.news-modal-content table {
+	width: 100%;
+	border: 1px solid gray;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+
+.news-modal-content tbody {
+	text-align: center;
+}
+
+table {
+	width: 100%;
+}
+
+table, th, tr, td {
+	text-align: center;
+	border: 1px solid gray;
+    padding-right: 10px;
+	padding-left: 5px;
 }
 
 .close {
