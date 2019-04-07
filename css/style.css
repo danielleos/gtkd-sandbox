@@ -2363,16 +2363,17 @@ iframe {
 	align-content: center;
 }
 
+.padding-s {
+	display: flex !important;
+	align-items: center !important;
+}
+
 @media (max-width: 1200px) {
 	.visible-s {
 		display: block !important;
 	}
 	.hidden-s {
 		display: none !important;
-	}
-	.padding-s {
-		display: flex !important;
-		align-items: center !important;
 	}
 }
 
