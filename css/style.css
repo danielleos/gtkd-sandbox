@@ -848,7 +848,7 @@ background: rgba(238, 198, 10, 0.9); }
 
 /* Blocks */
 .site-blocks-cover {
-	background-image: url('images/assets/itf-bg-blur.png');
+	background-image: url('img/assets/itf-bg-blur.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
